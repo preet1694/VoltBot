@@ -3,7 +3,8 @@
 <img width='100px' src='https://media.giphy.com/media/6rYFu4DkdH2UyBYtYL/giphy.gif'>
 
 VoltBot is an AI-powered assistant designed to help you with all your electrical engineering queries and tasks. Whether you're a professional electrician or a hobbyist, VoltBot is here to assist you with information, troubleshooting, and more!
-
+## Hosted Link 
+https://voltbot.onrender.com/
 ## Features
 
 - **PDF Upload**: Upload PDF documents related to electrical engineering or power substations.
